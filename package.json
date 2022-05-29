@@ -6,6 +6,6 @@
   },
   "main":"main.js",
   "scripts":{
-    "start": "node api.js"
+    "start": "node main.js"
   }
 }
